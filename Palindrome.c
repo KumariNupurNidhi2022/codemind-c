@@ -12,7 +12,7 @@ int main()
     }
     if(t==rev)
     {
-        printf("True");
+      printf("True");  
     }
     else
     {
